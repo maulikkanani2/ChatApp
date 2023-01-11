@@ -2,7 +2,7 @@
 
 The first thing to do is to clone the repository:
 
-$ git clone 
+$ git clone https://github.com/maulikkanani2/ChatApp.git
 $ cd ChatApp
 Create a virtual environment to install dependencies in and activate it:
 
